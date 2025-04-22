@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-19T22:55:52 PDT" name="Default suite" finished-at="2025-04-19T22:55:56 PDT" duration-ms="3643">
+    <groups>
+    </groups>
+    <test started-at="2025-04-19T22:55:52 PDT" name="Default test" finished-at="2025-04-19T22:55:56 PDT" duration-ms="3643">
+      <class name="taskOne.myFristTask">
+        <test-method is-config="true" signature="first()[pri:0, instance:taskOne.myFristTask@732f29af]" started-at="2025-04-19T22:55:52 PDT" name="first" finished-at="2025-04-19T22:55:54 PDT" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method signature="logIn()[pri:1, instance:taskOne.myFristTask@732f29af]" started-at="2025-04-19T22:55:54 PDT" name="logIn" finished-at="2025-04-19T22:55:54 PDT" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="printDescripsion()[pri:2, instance:taskOne.myFristTask@732f29af]" started-at="2025-04-19T22:55:54 PDT" name="printDescripsion" finished-at="2025-04-19T22:55:54 PDT" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printDescripsion -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:taskOne.myFristTask@732f29af]" started-at="2025-04-19T22:55:54 PDT" name="logOut" finished-at="2025-04-19T22:55:56 PDT" duration-ms="1365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- taskOne.myFristTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
